@@ -75,12 +75,12 @@ The technical deliverables required to complete the Amazon Vine analysis include
     - The number of helpful *5-star* non-Vine reviews: **74470**
 
 - Determine what percentage of Vine reviews and non-Vine reviews were *5-stars*:<br />
-    - The percentage of helpful Vine reviews that were *5-stars*: 44.27%
-    - The percentage of helpful non_Vine reviews that were *5-stars*: 61.62%
+    - The percentage of helpful Vine reviews that were *5-stars*: **44.27%**
+    - The percentage of helpful non_Vine reviews that were *5-stars*: **61.62%**
 
 ## Summary: 
 - The results of the analysis from this dataset show that Non-Amazon Vine members were more likely to give a Health Personal Care product a *5-star* rating compared to an Amazon Vine member. There seems to be no positivity bias in the paid reviews compared to unpaid Vine reviews.
 
 - An additional analysis carried out with the dataset to support this statement (refer to [Vine Review Analysis](https://github.com/aobasuyi/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)) shows that.
-    - The percentage of total Vine reviews for votes greater or equal to 20 that were 5-stars: **43.56%**
-    - The percentage of total non_Vine reviews for votes greater or equal to 20 that were 5-stars: **57.24%**
+    - The percentage of total Vine reviews for votes greater or equal to 20 that were *5-stars*: **43.56%**
+    - The percentage of total non_Vine reviews for votes greater or equal to 20 that were *5-stars*: **57.24%**
